@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hola mundo2</string>
+    <string name="escribe_tu_nombre">Escribe tu nombre</string>
+    <string name="saludo">Saludo</string>
+    <string name="saludos">Saludos</string>
+    <string name="jesus_guillermo_martinez_cerqueda">Jesus Guillermo Martinez Cerqueda</string>
+</resources>
